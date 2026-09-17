@@ -193,7 +193,8 @@ Thus, the program was implemented and executed successfully, and the required ou
   Else, print that the number is not prime.
 ### Step 7:   
   Stop
-# Program:```c
+# Program:
+```c
     #include <stdio.h>
     
     int main()
